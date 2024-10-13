@@ -107,7 +107,7 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: #483978;
+    background-color: #000D5B;
     color: white;
     font-size: 18px;
     padding-bottom: 2em;
@@ -210,7 +210,7 @@ section.repo-data {
     cursor: pointer;
     display: block;
     background-color: #483978;
-    border: 1px solid #483978;
+    border: 1px solid #000D5B;
 }
 
 .repo-data .visit:hover {
